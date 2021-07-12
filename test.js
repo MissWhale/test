@@ -3,4 +3,5 @@ function test(){
 }
 function release(){
     console.log('release')
+    console.log('hotfix')
 }
